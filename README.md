@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 
 * 🌐 中文 · English
-* ⏰ 7:00 - 23:30 「[UTC+8](https://time.is/UTC+8)」
+* ⏰ 8:30 - 23:00 「[UTC+8](https://time.is/UTC+8)」
 * 🏡 Index: [web-of-anion.top](https://web-of-anion.top)
 * 🔗 Blog: [blog.web-of-anion.top](https://blog.web-of-anion.top)
