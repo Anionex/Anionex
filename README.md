@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Anion</h1>
-<h3 align="center">not a Full Stack Engineer / Student</h3>
+<h1 align="center">Hi 👋, I'm Anion<br><br></h1>
+<h3 align="center"><br></h3>
 
 
 
