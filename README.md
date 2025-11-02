@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 
 
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Anionex&show_icons=true&theme=dark"
@@ -30,11 +31,24 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Anionex&show_icons=true" align=right />
 </picture>
 
+
+
 <br>
 
 * 🌐 中文 · English
 * ⏰ 8:30 - 23:00 「[UTC+8](https://time.is/UTC+8)」
 * 🏡 Index: [web-of-anion.top](https://web-of-anion.top)
 * 🔗 Blog: [blog.web-of-anion.top](https://blog.web-of-anion.top)
+
+
+<br><br>
+<h2></h2>
+
+🏆 **Honors & Awards**
+
+*   **Grand Prize (2nd place) at Challenge Cup** (Huawei Track) | Ranked 2nd/1,997 **(Top 0.1%)** - *Oct. 2025*
+*   **First Prize at Challenge Cup** (Huawei Track) | Ranked 11th/320 **(Top 3.5%)** - *Nov. 2024*
+
+
 
 
