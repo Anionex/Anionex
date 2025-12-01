@@ -42,14 +42,6 @@ Here are some ideas to get you started:
 
 
 <br><br>
-<h2></h2>
-
-🏆 **Honors & Awards**
-
-*   **National-level Grand Prize (2nd place) at Challenge Cup** (Huawei Track) | Ranked 2nd/1,997 **(Top 0.1%)** - *Oct. 2025*
-*   **National-level First Prize at Challenge Cup** (Huawei Track) | Ranked 11th/320 **(Top 3.5%)** - *Nov. 2024*
-*   **National-level Third Prize at China Software Cup** | *Aug. 2025*
-
 
 
 
