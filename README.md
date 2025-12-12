@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 * 🌐 中文 · English
 * ⏰ 8:30 - 23:00 「[UTC+8](https://time.is/UTC+8)」
 * 🔗 Blog: [blog.web-of-anion.top](https://blog.web-of-anion.top)
-* 😄 Games: [game.web-of-anion.top](https://game.web-of-anion.top)
+* 📚 Interests: LLMs, AIGC, trying new things   
+* 📫 Reach me at: [anionex@qq.com](mailto:anionex@qq.com)
 
 <br><br>
-
 
 
