@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Anion
-<br><br>
+<p>
+
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?&logo=bilibili&logoColor=white)](https://space.bilibili.com/477162339)
+[![Logo Badge](https://img.shields.io/badge/linux-do-yellow?style=flat&logo=data:image/svg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgdmlld0JveD0iMCAwIDEyMCAxMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCiAgICA8Y2xpcFBhdGggaWQ9ImEiPjxjaXJjbGUgY3g9IjYwIiBjeT0iNjAiIHI9IjQ3Ii8%2BPC9jbGlwUGF0aD4KICAgIDxjaXJjbGUgZmlsbD0iI2YwZjBmMCIgY3g9IjYwIiBjeT0iNjAiIHI9IjUwIi8%2BCiAgICA8cmVjdCBmaWxsPSIjMWMxYzFlIiBjbGlwLXBhdGg9InVybCgjYSkiIHg9IjEwIiB5PSIxMCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIzMCIvPgogICAgPHJlY3QgZmlsbD0iI2YwZjBmMCIgY2xpcC1wYXRoPSJ1cmwoI2EpIiB4PSIxMCIgeT0iNDAiIHdpZHRoPSIxMDAiIGhlaWdodD0iNDAiLz4KICAgIDxyZWN0IGZpbGw9IiNmZmIwMDMiIGNsaXAtcGF0aD0idXJsKCNhKSIgeD0iMTAiIHk9IjgwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjMwIi8%2BCjwvc3ZnPg%3D%3D)](https://linux.do/u/anionex/)
+
+
+</p>
 
 </h1>
 
