@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <br>
 
 * 🌐 中文 · English
+* 🏄‍♂️ A Gen Z tinkerer
 * ⏰ 8:30 - 23:00 「[UTC+8](https://time.is/UTC+8)」
 * 🔗 Blog: [blog.web-of-anion.top](https://blog.web-of-anion.top)
 * 📚 Interests: LLMs, AIGC, trying new things   
