@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 * 🔗 Blog: [blog.web-of-anion.top](https://blog.web-of-anion.top)
 * 📚 Interests: LLMs, AIGC, trying new things
 * 🧪 Currently interning at [DCAI](https://x.com/PKU_DCAI)
-* 📫 Reach me at: [anionex@qq.com](mailto:anionex@qq.com)
+* 📫 Reach me at: [davidyang042@gmail.com](mailto:davidyang042@gmail.com)
 
 <br><br>
 
