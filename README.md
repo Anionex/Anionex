@@ -47,9 +47,8 @@ Here are some ideas to get you started:
 
 * 🌐 中文 · English
 * 🏄‍♂️ A Gen Z tinkerer
-* ⏰ 8:30 - 23:00 「[UTC+8](https://time.is/UTC+8)」
 * 🔗 Blog: [blog.web-of-anion.top](https://blog.web-of-anion.top)
-* 📚 Interests: LLMs, AIGC, trying new things
+* 📚 Interests: LLMs, AIGC, deploying models, trying new things
 * 🧪 Currently interning at [DCAI](https://x.com/PKU_DCAI)
 * 📫 Reach me at: [davidyang042@gmail.com](mailto:davidyang042@gmail.com)
 
