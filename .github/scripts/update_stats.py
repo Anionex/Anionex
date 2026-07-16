@@ -4,6 +4,8 @@ import os
 import re
 import urllib.request
 
+import readme_block
+
 USER = os.environ["GH_USER"]
 
 
@@ -34,15 +36,4 @@ badge = (
     f"-2F81F7?style=flat&logo=github&logoColor=white)](https://gitstar-ranking.com/{USER})"
 )
 
-with open("README.md", encoding="utf-8") as f:
-    content = f.read()
-
-content = re.sub(
-    r"<!-- RANK-START -->.*?<!-- RANK-END -->",
-    f"<!-- RANK-START -->\n{badge}\n<!-- RANK-END -->",
-    content,
-    flags=re.DOTALL,
-)
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(content)
+readme_block.replace("RANK", badge)
