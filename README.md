@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ROOM-START -->
+<img src="https://raw.githubusercontent.com/Anionex/Anionex/profile-assets/room.png?v=bootstrap" width="100%" alt="night" />
+<!-- ROOM-END -->
+
 <h1 align="center">Hi 👋, I'm Anion
 <p>
 

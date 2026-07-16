@@ -1,0 +1,59 @@
+name: Update Room Scene
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 北京 08:00 早晨
+    - cron: '0 10 * * *'  # 北京 18:00 傍晚
+    - cron: '0 14 * * *'  # 北京 22:00 晚上
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate scene
+        id: gen
+        env:
+          DOUBAO_API_KEY: ${{ secrets.DOUBAO_API_KEY }}
+        run: python3 .github/scripts/generate_room.py
+
+      - name: Publish image
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 图片强推到单提交的 orphan 分支。每张图 ~700KB、一天 3 张，
+          # 提交进 main 的话一年会往 git 历史堆 ~770MB 且无法回收；
+          # 这样历史里永远只有当前这一份。
+          tmp=$(mktemp -d)
+          cp room.png "$tmp/"
+          cd "$tmp"
+          git init -q
+          git checkout -q -b profile-assets
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add room.png
+          git commit -q -m "room scene: ${{ steps.gen.outputs.slot }}"
+          git push -q -f "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" profile-assets
+
+      - name: Point README at the new image
+        env:
+          SLOT: ${{ steps.gen.outputs.slot }}
+          VERSION: ${{ github.run_id }}
+        run: python3 .github/scripts/update_room_readme.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh room scene (${{ steps.gen.outputs.slot }})"
+            git push
+          fi
