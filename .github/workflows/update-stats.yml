@@ -1,0 +1,33 @@
+name: Update Stats Badges
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'  # 每 6 小时，错峰避开整点高峰（GitHub 调度可能再延迟数分钟）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh badges
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: Anionex
+        run: python3 .github/scripts/update_stats.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh stats badges"
+            git push
+          fi
