@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 <!-- RANK-START -->
 [![Global Star Rank](https://img.shields.io/badge/Global%20Star%20Rank-%231414-2F81F7?style=flat&logo=github&logoColor=white)](https://gitstar-ranking.com/Anionex)
 <!-- RANK-END -->
-<!-- STATS-START -->
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-15.5k-D29922?style=flat&logo=github&logoColor=white)](https://github.com/Anionex)
-[![Followers](https://img.shields.io/badge/Followers-221-238636?style=flat&logo=github&logoColor=white)](https://github.com/Anionex?tab=followers)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-57-57606A?style=flat&logo=github&logoColor=white)](https://github.com/Anionex?tab=repositories)
-<!-- STATS-END -->
 
 </p>
 

@@ -14,9 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Refresh badges
+      - name: Refresh badge
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: Anionex
         run: python3 .github/scripts/update_stats.py
 
