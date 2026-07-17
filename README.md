@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <!-- RANK-START -->
-[![Global Star Rank](https://img.shields.io/badge/Global%20Star%20Rank-%231414-2F81F7?style=flat&logo=github&logoColor=white)](https://gitstar-ranking.com/Anionex)
+[![Global Star Rank](https://img.shields.io/badge/Global%20Star%20Rank-%231415-2F81F7?style=flat&logo=github&logoColor=white)](https://gitstar-ranking.com/Anionex)
 <!-- RANK-END -->
 
 </p>
