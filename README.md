@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 
 <br><br>
 
-
+<img src="assets/ride.gif" width="100%" alt="pixel ride" />
