@@ -67,7 +67,6 @@ Also made:
 
 * 🌳 [treeAI](https://github.com/Anionex/treeAI) — chat with LLMs in the form of a tree
 * 🔍 [pcb-defect-detection-app](https://github.com/Anionex/pcb-defect-detection-app) — HarmonyOS PCB defect detection app ([YOLOv10 model](https://github.com/Anionex/yolov10-pcb-detect)) · Challenge Cup national first prize
-* 🤖 [LLM-ReACT-Agent](https://github.com/Anionex/LLM-ReACT-Agent) — a ReAct agent built from scratch
 
 <br><br>
 
