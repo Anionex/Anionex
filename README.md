@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 
 ## 🛠️ Works
 
-<a href="https://github.com/Anionex/banana-slides"><b>banana-slides</b></a>&nbsp;<a href="https://github.com/Anionex/banana-slides/stargazers"><img src="https://img.shields.io/github/stars/Anionex/banana-slides?style=flat&logo=github&color=FFD54F" alt="GitHub stars" /></a>
-<br>An AI-native slides generator based on nano banana pro 🍌, towards "Vibe PPT" — *built overnight, [the git log proves it](https://github.com/Anionex/banana-slides/commit/af39f63e9dbac329b9a58bc30ffc0d63d5eb9b15).*
+**[banana-slides](https://github.com/Anionex/banana-slides)** (15k⭐)
+<br>An AI-native slides generator based on nano banana pro 🍌, towards "Vibe PPT" — *built overnight, [the git log proves it](https://github.com/Anionex/banana-slides/compare/af39f63e9dbac329b9a58bc30ffc0d63d5eb9b15...64ffd59d067ce737c63431c4f7608902896d7020).*
 
 Also made:
 
