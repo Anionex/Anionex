@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ## 🛠️ Works
 
 **[banana-slides](https://github.com/Anionex/banana-slides)** (15k⭐)
-<br>An AI-native slides generator based on nano banana pro 🍌, towards "Vibe PPT" — *built overnight, [the git log proves it](https://github.com/Anionex/banana-slides/compare/50d79ea220ba49219b1e05f1701224a9d7f5dda8...64ffd59d067ce737c63431c4f7608902896d7020).*
+<br>An AI-native slides generator based on nano banana pro 🍌. I [built it overnight](https://github.com/Anionex/banana-slides/compare/50d79ea220ba49219b1e05f1701224a9d7f5dda8...64ffd59d067ce737c63431c4f7608902896d7020).
 
 Also made:
 
