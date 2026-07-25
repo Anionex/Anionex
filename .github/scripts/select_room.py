@@ -10,7 +10,7 @@ PRESETS = {
 
 
 def current_slot():
-    """Use the morning preset before 16:00 Beijing time, evening otherwise."""
+    """Use the morning preset from 05:00 through 15:59 Beijing time."""
     hour = (dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=8)).hour
     if 5 <= hour < 16:
         return "morning"
