@@ -60,12 +60,13 @@ Here are some ideas to get you started:
 
 ## 🛠️ Works
 
-**I built [banana-slides](https://github.com/Anionex/banana-slides)** (15k⭐) -- an AI-native slides generator based on nano banana pro 🍌 [overnight](https://github.com/Anionex/banana-slides/compare/50d79ea220ba49219b1e05f1701224a9d7f5dda8...64ffd59d067ce737c63431c4f7608902896d7020).
+**I built an AI-native slides generator 🍌 [banana-slides](https://github.com/Anionex/banana-slides)** (15k⭐) [overnight](https://github.com/Anionex/banana-slides/compare/50d79ea220ba49219b1e05f1701224a9d7f5dda8...64ffd59d067ce737c63431c4f7608902896d7020). -- 
 
 Also made:
 
 * 🌳 [treeAI](https://github.com/Anionex/treeAI) — chat with LLMs in the form of a tree
-* 🔍 [pcb-defect-detection-app](https://github.com/Anionex/pcb-defect-detection-app) — HarmonyOS PCB defect detection app ([YOLOv10 model](https://github.com/Anionex/yolov10-pcb-detect)) · Challenge Cup national first prize
+* 🔍 [ernie-image-mlx](https://github.com/Anionex/ernie-image-mlx) - 2x faster ERNIE-Image/ERNIE-Image turbo 8B on Apple silicon
+* ✈️ [TravelDesigner](https://github.com/Anionex/TravelDesigner) - handmade agent to generate travel itinerary
 
 <br><br>
 
