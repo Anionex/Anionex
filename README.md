@@ -66,7 +66,7 @@ Also made:
 
 * 🌳 [treeAI](https://github.com/Anionex/treeAI) — chat with LLMs in the form of a tree
 * 🔍 [ernie-image-mlx](https://github.com/Anionex/ernie-image-mlx) - 2x faster ERNIE-Image/ERNIE-Image turbo 8B on Apple silicon
-* ✈️ [TravelDesigner](https://github.com/Anionex/TravelDesigner) - handmade agent to generate travel itinerary
+* ✈️ [TravelDesigner](https://github.com/Anionex/TravelDesigner) - a hand-crafted agent that can generate travel itineraries within a given budget.
 
 <br><br>
 
