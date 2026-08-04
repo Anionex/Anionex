@@ -60,14 +60,20 @@ Here are some ideas to get you started:
 
 ## 🛠️ Works
 
-**I built an AI-native slides generator 🍌 [banana-slides](https://github.com/Anionex/banana-slides)** (15k⭐) [overnight](https://github.com/Anionex/banana-slides/compare/50d79ea220ba49219b1e05f1701224a9d7f5dda8...64ffd59d067ce737c63431c4f7608902896d7020). -- 
+**I built an AI-native slides generator 🍌 [banana-slides](https://github.com/Anionex/banana-slides)** (15k⭐) [overnight](https://github.com/Anionex/banana-slides/compare/50d79ea220ba49219b1e05f1701224a9d7f5dda8...64ffd59d067ce737c63431c4f7608902896d7020). 
 
 Also made:
-
+* 🖼️ [codex-vision-proxy](https://github.com/Anionex/codex-vision-proxy) — lets pure-text models call the built-in image viewer (view_image) in Codex
 * 🌳 [treeAI](https://github.com/Anionex/treeAI) — chat with LLMs in the form of a tree
-* 🔍 [ernie-image-mlx](https://github.com/Anionex/ernie-image-mlx) - 2x faster ERNIE-Image/ERNIE-Image turbo 8B on Apple silicon
-* ✈️ [TravelDesigner](https://github.com/Anionex/TravelDesigner) - a hand-crafted agent that can generate travel itineraries within a given budget.
+* 🔬 [yolov10-pcb-detect](https://github.com/Anionex/yolov10-pcb-detect) — PCB defect detection with yolov10
+* 🍒 [cherry-studio-with-js-plugins](https://github.com/Anionex/cherry-studio-with-js-plugins) — a plugin system for Cherry Studio
 
+
+## 🌱 Contribution
+* 🚀 [vllm-project/vllm](https://github.com/vllm-project/vllm)
+* 🖥️ [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 
+* ⚡ [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
+* ✈️ [OSU-NLP-Group/TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) 
 <br><br>
 
 <img src="assets/ride.gif" width="100%" alt="pixel ride" />
