@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 * 🌐 中文 · English
 * 🏄‍♂️ A Gen Z tinkerer
-* 🔗 Blog: [blog.web-of-anion.top](https://blog.web-of-anion.top)
+* 🔗 Blog: [blog.anionex.me](https://blog.anionex.me)
 * 📚 Interests: LLMs, AIGC, deploying models, trying new things
 * 🧪 Currently interning at [DCAI](https://x.com/PKU_DCAI)
 * 📫 Reach me at: [davidyang042@gmail.com](mailto:davidyang042@gmail.com)
