@@ -76,4 +76,6 @@ Also made:
 * ✈️ [OSU-NLP-Group/TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) 
 <br><br>
 
+<!--
 <img src="assets/ride.gif" width="100%" alt="pixel ride" />
+-->
