@@ -24,11 +24,17 @@ jobs:
           SLOT: ${{ steps.gen.outputs.slot }}
         run: python3 .github/scripts/update_room_readme.py
 
+      - name: Install image tools
+        run: python3 -m pip install --quiet pillow
+
+      - name: Regenerate hero banners from the full scenes
+        run: python3 .github/scripts/make_banner.py --both
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md assets/room/*-banner.webp
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
