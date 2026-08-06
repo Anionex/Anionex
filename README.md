@@ -1,19 +1,3 @@
-
-<!--
-**Anionex/Anionex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- ROOM-START -->
 <img src="https://raw.githubusercontent.com/Anionex/Anionex/main/assets/room/evening-banner.webp" width="100%" alt="evening" />
 <!-- ROOM-END -->
@@ -53,27 +37,27 @@ Here are some ideas to get you started:
 
 * 🌐 中文 · English
 * 🏄‍♂️ A Gen Z tinkerer
-* 🔗 Blog: [blog.anionex.me](https://blog.anionex.me)
+* 🔗 Website: [anionex.me](https://anionex.me)
 * 📚 Interests: LLMs, AIGC, deploying models, trying new things
 * 🧪 Currently interning at [DCAI](https://x.com/PKU_DCAI)
 * 📫 Reach me at: [davidyang042@gmail.com](mailto:davidyang042@gmail.com)
 
-## 🛠️ Works
+
+## 🛠️ projects
 
 **I built an AI-native slides generator 🍌 [banana-slides](https://github.com/Anionex/banana-slides)** (15k⭐) [overnight](https://github.com/Anionex/banana-slides/compare/50d79ea220ba49219b1e05f1701224a9d7f5dda8...64ffd59d067ce737c63431c4f7608902896d7020). 
 
-Also made:
-* 🖼️ [codex-vision-proxy](https://github.com/Anionex/codex-vision-proxy) — lets pure-text models call the built-in image viewer (view_image) in Codex
-* 🌳 [treeAI](https://github.com/Anionex/treeAI) — chat with LLMs in the form of a tree
-* 🔬 [yolov10-pcb-detect](https://github.com/Anionex/yolov10-pcb-detect) — PCB defect detection with yolov10
-* 🍒 [cherry-studio-with-js-plugins](https://github.com/Anionex/cherry-studio-with-js-plugins) — a plugin system for Cherry Studio
+also built:
+* [agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit) — A vision toolkit for text-only agents handling multi-step visual tasks
+* [treeAI](https://github.com/Anionex/treeAI) — chat with LLMs in the form of a tree
+* [cherry-studio-with-js-plugins](https://github.com/Anionex/cherry-studio-with-js-plugins) — a plugin system for Cherry Studio
 
 
-## 🌱 Contribution
-* 🚀 [vllm-project/vllm](https://github.com/vllm-project/vllm)
-* 🖥️ [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 
-* ⚡ [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
-* ✈️ [OSU-NLP-Group/TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) 
+**Some open-source projects I've contributed to:**
+* [vllm-project/vllm](https://github.com/vllm-project/vllm)
+* [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 
+* [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
+* [OSU-NLP-Group/TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) 
 <br><br>
 
 <!--
