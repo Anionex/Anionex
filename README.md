@@ -10,7 +10,7 @@
 
 
 <!-- RANK-START -->
-[![Global Star Rank](https://img.shields.io/badge/Global%20Star%20Rank-%231416-2F81F7?style=flat&logo=github&logoColor=white)](https://gitstar-ranking.com/Anionex)
+[![Global Star Rank](https://img.shields.io/badge/Global%20Star%20Rank-%231361-2F81F7?style=flat&logo=github&logoColor=white)](https://gitstar-ranking.com/Anionex)
 <!-- RANK-END -->
 <a href="https://trendshift.io/developers/12361?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-12361" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/12361" alt="Anionex | Trendshift" width="250" height="55"/></a>
 </p>
