@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Anionex/Anionex/main/assets/room/evening-banner.webp" width="100%" alt="evening" />
 <!-- ROOM-END -->
 
-<h1 align="center">Hi 👋, I'm Anion
+<h1 align="center">Hi 👋, I'm anionex
 <p>
 
 [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?&logo=bilibili&logoColor=white)](https://space.bilibili.com/477162339)
