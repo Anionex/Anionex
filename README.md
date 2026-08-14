@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm anionex
 <p>
   
-[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/477162339)
 [![X (Twitter)](https://img.shields.io/badge/-@anion__ex-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/anion_ex)
+[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/477162339)
 <!-- RANK-START -->
 [![Global Star Rank](https://img.shields.io/badge/Global%20Star%20Rank-%231364-2F81F7?style=flat&logo=github&logoColor=white)](https://gitstar-ranking.com/Anionex)
 <!-- RANK-END -->
