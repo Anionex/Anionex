@@ -51,7 +51,7 @@ also built:
 * [cherry-studio-with-js-plugins](https://github.com/Anionex/cherry-studio-with-js-plugins) — a plugin system for Cherry Studio
 
 
-**Some open-source projects I've contributed to:**
+**Some open-source projects I've contributed code to:**
 * [vllm-project/vllm](https://github.com/vllm-project/vllm)
 * [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 
 * [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
