@@ -56,7 +56,9 @@ also built:
 * [vllm-project/vllm](https://github.com/vllm-project/vllm)
 * [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) 
 * [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)
-* [OSU-NLP-Group/TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) 
+* [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve/)
+* [OSU-NLP-Group/TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner)
+
 <br><br>
 
 <!--
