@@ -37,7 +37,6 @@
 * 🏄‍♂️ A Gen Z tinkerer
 * 🔗 Website: [anionex.me](https://anionex.me)
 * 📚 Interests: LLMs, AIGC, deploying models, trying new things
-* 🧪 Currently interning at [DCAI](https://x.com/PKU_DCAI)
 * 📫 Reach me at: [davidyang042@gmail.com](mailto:davidyang042@gmail.com)
 
 
