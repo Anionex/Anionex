@@ -43,7 +43,7 @@
 
 ## 🛠️ projects
 
-**I built an AI-native slides generator 🍌 [banana-slides](https://github.com/Anionex/banana-slides)** (15k⭐) [overnight](https://github.com/Anionex/banana-slides/compare/50d79ea220ba49219b1e05f1701224a9d7f5dda8...64ffd59d067ce737c63431c4f7608902896d7020). 
+**I built an AI-native slides generator 🍌 [banana-slides](https://github.com/Anionex/banana-slides)** (15k⭐) 
 
 also built:
 * [agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit)(1k+⭐) — A vision toolkit for text-only agents handling multi-step visual tasks
