@@ -42,11 +42,12 @@
 
 ## 🛠️ projects
 
-**I built an AI-native slides generator 🍌 [banana-slides](https://github.com/Anionex/banana-slides)** (15k⭐) 
+**I built an AI-native slides generator 🍌 [banana-slides](https://github.com/Anionex/banana-slides)** (15k+⭐) 
+🌐: [bananaslides.online](https://bananaslides.online/)
 
 also built:
-* [agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit)(1k+⭐) — A vision toolkit for text-only agents handling multi-step visual tasks
-* [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)(800+⭐) — the first(day0) comprehensive native visual plugin for [deepseek harness](https://github.com/deepseek-ai/deepseek-harness).
+* [agent-vision-toolkit](https://github.com/Anionex/agent-vision-toolkit)(1.2k+⭐) — A vision toolkit for text-only agents handling multi-step visual tasks
+* [dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)(900+⭐) — the first(day0) comprehensive native visual plugin for [deepseek harness](https://github.com/deepseek-ai/deepseek-harness).
 * [treeAI](https://github.com/Anionex/treeAI) — chat with LLMs in the form of a tree
 * [cherry-studio-with-js-plugins](https://github.com/Anionex/cherry-studio-with-js-plugins) — a plugin system for Cherry Studio
 
