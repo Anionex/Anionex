@@ -1,4 +1,4 @@
-name: Update Stats Badges
+name: Update Profile Stats
 
 on:
   schedule:
@@ -19,6 +19,11 @@ jobs:
           GH_USER: Anionex
         run: python3 .github/scripts/update_stats.py
 
+      - name: Refresh contribution stars
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/update_contribution_stars.py
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
@@ -27,6 +32,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: refresh stats badges"
+            git commit -m "chore: refresh profile stats"
             git push
           fi
