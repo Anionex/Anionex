@@ -8,7 +8,7 @@
 [![X (Twitter)](https://img.shields.io/badge/-@anion__ex-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/anion_ex)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/477162339)
 <!-- RANK-START -->
-[![Global Star Rank](https://img.shields.io/badge/Global%20Star%20Rank-%231209-2F81F7?style=flat&logo=github&logoColor=white)](https://gitstar-ranking.com/Anionex)
+[![Global Star Rank](https://img.shields.io/badge/Global%20Star%20Rank-%231210-2F81F7?style=flat&logo=github&logoColor=white)](https://gitstar-ranking.com/Anionex)
 <!-- RANK-END -->
 <a href="https://trendshift.io/developers/12361?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-12361" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/12361" alt="Anionex | Trendshift" width="250" height="55"/></a>
 </p>
@@ -56,10 +56,10 @@ also built:
 <!-- CONTRIBUTIONS-START -->
 * [vllm-project/vllm](https://github.com/vllm-project/vllm) (95.3k⭐) — Hunyuan dense model inference regression fix.
 * [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (44.5k⭐) — Snapshot schema fix to restore cursor-interactive element detection.
-* [JustVugg/colibri](https://github.com/JustVugg/colibri) (43.6k⭐) — Single-frame CPU VAE encoding for Qwen-Image.
+* [JustVugg/colibri](https://github.com/JustVugg/colibri) (43.7k⭐) — Single-frame CPU VAE encoding for Qwen-Image.
 * [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) (3k⭐) — New-format W4A8 dynamic quantization support for linear layers.
 * [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve/) (2.1k⭐) — Prefix KV caching for faster multi-reference Qwen-Image editing.
-* [OSU-NLP-Group/TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) (559⭐) — Planner tool initialization fix to prevent duplicate instances.
+* [OSU-NLP-Group/TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) (561⭐) — Planner tool initialization fix to prevent duplicate instances.
 <!-- CONTRIBUTIONS-END -->
 
 <br><br>
