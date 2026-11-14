@@ -55,8 +55,8 @@ also built:
 **Some projects I've contributed to:**
 <!-- CONTRIBUTIONS-START -->
 * [vllm-project/vllm](https://github.com/vllm-project/vllm) (96.9k⭐) — Hunyuan dense model inference regression fix.
-* [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (51.1k⭐) — Snapshot schema fix to restore cursor-interactive element detection.
-* [JustVugg/colibri](https://github.com/JustVugg/colibri) (51k⭐) — Single-frame CPU VAE encoding for Qwen-Image.
+* [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) (51.2k⭐) — Snapshot schema fix to restore cursor-interactive element detection.
+* [JustVugg/colibri](https://github.com/JustVugg/colibri) (51.1k⭐) — Single-frame CPU VAE encoding for Qwen-Image.
 * [vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend) (3.1k⭐) — New-format W4A8 dynamic quantization support for linear layers.
 * [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve/) (2.5k⭐) — Prefix KV caching for faster multi-reference Qwen-Image editing.
 * [OSU-NLP-Group/TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner) (569⭐) — Planner tool initialization fix to prevent duplicate instances.
